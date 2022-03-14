@@ -1,5 +1,5 @@
-1. nama mull algirhani
-2. tempat tanggal lahir
-3. hobi
-4. pekerjaan
-5. status
+1. nama : mull algirhani
+2. tempat tanggal lahir :
+3. hobi :
+4. pekerjaan :
+5. status :
