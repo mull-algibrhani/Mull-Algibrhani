@@ -1,5 +1,5 @@
 1. nama : mull algirhani
-2. tempat tanggal lahir :
-3. hobi :
-4. pekerjaan :
-5. status :
+2. tempat tanggal lahir : Bantaeng
+3. hobi : Ngoding
+4. pekerjaan : Programmer
+5. status : Menikah
